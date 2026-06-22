@@ -1,4 +1,4 @@
-# Elder Fall Detection using Raspberry Pi 5, Multi Tapo Cameras, MQTT & Telegram
+# Elder Fall Detection using Raspberry Pi 5, Multi Tapo Cameras, MQTT & Telegram/ Whatsapp Alert
 
 A real-time elderly fall detection system that uses multiple TP-Link Tapo IP cameras, MediaPipe/Movenet pose estimation, MQTT communication, and Telegram notifications.
 
