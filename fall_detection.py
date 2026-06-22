@@ -84,16 +84,7 @@ cloudinary.config(
 )
 
 # Twilio
-# ACCOUNT_SID = "AC77887f9c53cbc897caaa895720a3d88e"
-# ACCOUNT_SID = "ACa26fd4ddf397d09867a3c7fc6c812b06"
-# ACCOUNT_SID = "AC6bf5e6aa371f2d6cd0ac0945c44973bb"
 ACCOUNT_SID = "***"
-
-
-
-# AUTH_TOKEN = "5cdf7097f3879db06e14bf06441b3a1d"
-# AUTH_TOKEN = "cddc3f97b5c10286942da0b3fa22dd09"
-# AUTH_TOKEN = "6954ccdfc3120e1d885dcbe5fd965dcf"
 AUTH_TOKEN = "***"
 
 
