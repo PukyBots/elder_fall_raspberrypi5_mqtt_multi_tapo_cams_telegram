@@ -84,8 +84,8 @@ cloudinary.config(
 )
 
 # Twilio
-ACCOUNT_SID = "AC77887f9c53cbc897caaa895720a3d88e"
-AUTH_TOKEN = "5cdf7097f3879db06e14bf06441b3a1d"
+ACCOUNT_SID = "**"
+AUTH_TOKEN = "**"
 
 twilio_client = Client(ACCOUNT_SID, AUTH_TOKEN)
 
